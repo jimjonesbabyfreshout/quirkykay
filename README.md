@@ -31,7 +31,7 @@ If you want to fork Quirk, you should fork off of [this commit](https://github.c
 <h1 align="center">✨🐙 quirk. </h1>
 </p>
 <p align="center">
-  <a href="https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8">Download iOS</a> • <a href="https://play.google.com/store/apps/details?id=tech.econn.quirk">Download Android</a> • <a href="mailto:humans+github@quirk.fyi">Contact</a> • <a href="https://tinyletter.com/quirk">Newsletter</a>
+  <a href="https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8">Download iOS</a><a href="https://tinyletter.com/quirk">Newsletter</a>
 <br><br>
 </p>
 
@@ -60,24 +60,6 @@ After a lot of tries with other models, that ended up being a subscription. In a
 
 The _only_ solid way to have good retention is to create something that is actively useful and good. Similarly, the only way to get any value from CBT is to consistently do it. 
 
-## Contributors
-
-Some amazing folks have helped build the Quirk you see today.
-
-- [@devinroche](https://github.com/devinroche) for setting up translation and stepping up as a core maintainer 🔥
-- [@devilcius](https://github.com/devilcius) for the amazing Spanish translation 🇪🇸
-- [@idnovic](https://github.com/idnovic) for the amazing German translation 🇩🇪 (and the iPad support!)
-- [@kwierbol](https://github.com/kwierbol) for the amazing Polish translation 🇵🇱
-- [@Walther](https://github.com/Walther) for the amazing Finnish translation 🇫🇮
-- [@Jos512](https://github.com/Jos512) for the amazing Dutch translation 🇳🇱
-- [@jinto](https://github.com/jinto) for the amazing Korean translation 🇰🇷
-- [@briankung](https://github.com/briankung) for the Chinese 🇨🇳 localization, internationalization support and helping guide the entire translation effort. 🎉
-- [@akinariobi](https://github.com/akinariobi) for the Russian translation 🇷🇺 
-- [@miguelmf](https://github.com/miguelmf) for the Portugese translation 🇵🇹
-- [@comradekingu](https://github.com/comradekingu) for the Norweigan Bokmål translation 🇳🇴
-- [@micheleriva](https://github.com/micheleriva) for the Italian translation 🇮🇹
-- [@Jolg42](https://github.com/jolg42) for the French translation 🇫🇷
-- [@Buricescu](https://github.com/Buricescu) for the Romanian translation 🇷🇴
 
 ## Running Locally
 
