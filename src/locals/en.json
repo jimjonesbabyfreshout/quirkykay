@@ -2,11 +2,11 @@
   "onboarding_screen": {
     "auto_thought_ex": "I missed Jeff's party, he must hate me.",
     "challenge_ex": "Jeff knows I couldn't make it every time, I wouldn't hate him if he missed something of mine.\n\nI should treat myself at least as well as I treat others.",
-    "alt_thought_ex": "It's true I missed George's party, I can apologize, and he'll probably forgive me.",
+    "alt_thought_ex": "It's true I missed Jeff's party, I can apologize, and he'll probably forgive me.",
     "cog_distortion": { "label": "Mind Reading", "slug": "mind-reading" },
     "intro": {
       "line1": "Welcome to",
-      "emphasis1": "quirk",
+      "emphasis1": "quirkykay",
       "line2": ", the",
       "emphasis2": "Cognitive Behavioral Therapy (CBT)",
       "line3": "App."
@@ -113,7 +113,7 @@
   "magnification_of_the_negative_thought": "I ate healthy this week, but I skipped my run.",
   "mind_reading": "Mind Reading",
   "mind_reading_explanation": "If we're worried about what someone else is thinking about us, we're attempting to read minds. Unless someone tells you what they're thinking, you have absolutely no way of knowing. So why assume the worst?",
-  "mind_reading_thought": "I think I was rude to George, I'll bet he hates me.",
+  "mind_reading_thought": "I think I was rude to Jeff, I'll bet he hates me.",
   "minimization_of_the_positive": "Minimization of the Positive",
   "minimization_of_the_positive_explanation": "If we downplay the good things that are happening to us, we're minimizing the positive. Even if our day didn't go 100% as planned, it doesn't mean that the 60% that did go right should be ignored.",
   "minimization_of_the_positive_thought": "Many people liked my presentation, but I stumbled giving the intro, so it was bad.",
