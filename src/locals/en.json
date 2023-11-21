@@ -1,7 +1,7 @@
 {
   "onboarding_screen": {
-    "auto_thought_ex": "I missed George's party, he must hate me.",
-    "challenge_ex": "George knows I couldn't make it every time, I wouldn't hate him if he missed something of mine.\n\nI should treat myself at least as well as I treat others.",
+    "auto_thought_ex": "I missed Jeff's party, he must hate me.",
+    "challenge_ex": "Jeff knows I couldn't make it every time, I wouldn't hate him if he missed something of mine.\n\nI should treat myself at least as well as I treat others.",
     "alt_thought_ex": "It's true I missed George's party, I can apologize, and he'll probably forgive me.",
     "cog_distortion": { "label": "Mind Reading", "slug": "mind-reading" },
     "intro": {
@@ -48,16 +48,16 @@
     },
     "bad_thought_note": {
       "line1": "Note the thought:",
-      "line2": "I missed George's party, he must hate me."
+      "line2": "I missed Jeff's party, he must hate me."
     },
     "identify_distortions": {
       "line1": "Look for",
       "emphasis1": "Cognitive Distortions"
     },
     "bad_distortions": {
-      "line1": "Do we really know George will hate us? If not, we're",
+      "line1": "Do we really know Jeff will hate us? If not, we're",
       "emphasis1": "🧠 Mind Reading",
-      "line2": "I missed George's party, he must hate me."
+      "line2": "I missed Jeff's party, he must hate me."
     },
     "challenge_screen": {
       "line1": "Why isn't this thought realistic?",
