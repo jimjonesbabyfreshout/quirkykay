@@ -61,7 +61,7 @@
     "sentry-expo": "~2.0.0",
     "svg-path-properties": "^0.5.2",
     "tslib": "^1.9.3",
-    "typescript": "^3.4.2",
+    "typescript": "^3.9.10",
     "unified-stream": "^1.0.5",
     "uuid": "^3.3.2",
     "whatwg-fetch": "2.0.4"
