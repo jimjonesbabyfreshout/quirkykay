@@ -117,3 +117,72 @@ patch:
           react-native > @react-native-community/cli >
           @react-native-community/cli-hermes >
           @react-native-community/cli-platform-android > lodash
+    - expo > @expo/cli > @expo/devcert > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: expo > @expo/cli > @expo/devcert > lodash
+    - expo > @expo/cli > json-schema-deref-sync > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: expo > @expo/cli > json-schema-deref-sync > lodash
+    - expo > babel-preset-expo > metro-react-native-babel-preset > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          expo > babel-preset-expo > metro-react-native-babel-preset >
+          @babel/plugin-transform-block-scoping > lodash
+    - expo > babel-preset-expo > @babel/preset-env > @babel/preset-modules > @babel/types > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          expo > babel-preset-expo > @babel/preset-env > @babel/preset-modules >
+          @babel/types > lodash
+    - react-native > @react-native/community-cli-plugin > @react-native/metro-babel-transformer > @react-native/babel-preset > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          react-native > @react-native/community-cli-plugin >
+          @react-native/metro-babel-transformer > @react-native/babel-preset >
+          @babel/plugin-transform-block-scoping > lodash
+    - expo > babel-preset-expo > metro-react-native-babel-preset > @babel/plugin-transform-sticky-regex > @babel/helper-regex > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          expo > babel-preset-expo > metro-react-native-babel-preset >
+          @babel/plugin-transform-sticky-regex > @babel/helper-regex > lodash
+    - expo > babel-preset-expo > metro-react-native-babel-preset > @babel/plugin-transform-classes > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          expo > babel-preset-expo > metro-react-native-babel-preset >
+          @babel/plugin-transform-classes > @babel/helper-replace-supers >
+          @babel/traverse > lodash
+    - react-native > @react-native/community-cli-plugin > @react-native/metro-babel-transformer > @react-native/babel-preset > @babel/plugin-transform-sticky-regex > @babel/helper-regex > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          react-native > @react-native/community-cli-plugin >
+          @react-native/metro-babel-transformer > @react-native/babel-preset >
+          @babel/plugin-transform-sticky-regex > @babel/helper-regex > lodash
+    - expo > babel-preset-expo > metro-react-native-babel-preset > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/helper-annotate-as-pure > @babel/types > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          expo > babel-preset-expo > metro-react-native-babel-preset >
+          @babel/plugin-transform-async-to-generator >
+          @babel/helper-remap-async-to-generator >
+          @babel/helper-annotate-as-pure > @babel/types > lodash
+    - react-native > @react-native/community-cli-plugin > @react-native/metro-babel-transformer > @react-native/babel-preset > @babel/plugin-transform-classes > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          react-native > @react-native/community-cli-plugin >
+          @react-native/metro-babel-transformer > @react-native/babel-preset >
+          @babel/plugin-transform-classes > @babel/helper-replace-supers >
+          @babel/traverse > lodash
+    - jest > @jest/core > jest-config > babel-jest > @types/babel__core > @types/babel__generator > @babel/types > lodash:
+        patched: '2023-12-23T15:47:23.291Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          jest > @jest/core > jest-config > babel-jest > @types/babel__core >
+          @types/babel__generator > @babel/types > lodash
